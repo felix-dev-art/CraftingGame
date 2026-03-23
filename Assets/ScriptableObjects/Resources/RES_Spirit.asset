@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: RES_Spirit
   m_EditorClassIdentifier: 
   id: spirit
-  icon: {fileID: 21300000, guid: ba7cc8c0665b8fd4ea52b635a70245fe, type: 3}
+  icon: {fileID: -4463601529666964615, guid: 41bed1e9857c5f8448f8cc2c5623af15, type: 3}
   displayName: Spirit
   maxStack: 99
   description: Spirit is needed to motivate your actors.
