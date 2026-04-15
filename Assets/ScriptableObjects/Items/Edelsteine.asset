@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Edelsteine
   m_EditorClassIdentifier: 
   Id: 1
-  DisplayName: Edelsteine
-  Icon: {fileID: -6508908407416351038, guid: 93500fb32f7e0d342bc294c9d008f190, type: 3}
+  DisplayName: Rose
+  Icon: {fileID: 7727865131416500628, guid: 0cdb9a96fd7431a4396c06578c26a363, type: 3}
   MaxStack: 99
   producer: {fileID: 0}
   tier: 1
@@ -37,4 +37,4 @@ MonoBehaviour:
   equipmentBonusNote: Enter fractional bonuses (e.g., 0.15 = +15%, 1.0 = +100%).
     Speed bonuses multiply duration denominators; luck bonuses multiply chances.
   price: 15
-  description: "Ein gef\xE4rbtes Item."
+  description: flower

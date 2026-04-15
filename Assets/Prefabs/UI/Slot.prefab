@@ -111,6 +111,41 @@ MonoBehaviour:
   owner: 0
   index: 0
   craftingGrid: {fileID: 0}
+  onlyProducerItems: 0
+  onlyEquippable: 0
+  owningActor:
+    instanceId: 
+    def: {fileID: 0}
+    level: 0
+    xp: 0
+    state: 0
+    remainingDays: 0
+    taskType: 
+    taskAsset: {fileID: 0}
+    repeatTask: 0
+    backpack:
+      slots:
+      - Item: {fileID: 0}
+        Amount: 0
+      lastKnownCapacity: 1
+    equipment:
+      slots:
+      - Item: {fileID: 0}
+        Amount: 0
+      lastKnownCapacity: 1
+    lastEquipmentTotals:
+      travelSpeed: 0
+      craftingSpeed: 0
+      researchSpeed: 0
+      forageSpeed: 0
+      forageLuck: 0
+      tavernLuck: 0
+      researchLuck: 0
+    statementLog: []
+    lastHaulSummary: 
+    nextIdleThoughtTime: 0
+    happinessProgress: 0
+    happinessBonus: 0
   iconImage: {fileID: 5224810206096817885}
   countText: {fileID: 0}
   countTMP: {fileID: 1127978929383299325}
@@ -129,7 +164,7 @@ MonoBehaviour:
   root: {fileID: 3585106192784939275}
   bg: {fileID: 3975794573804530806}
   icon: {fileID: 5224810206096817885}
-  hoverColor: {r: 1, g: 1, b: 1, a: 0.08}
+  hoverColor: {r: 0.9528302, g: 0.91237986, b: 0.91237986, a: 0.08}
   hoverScale: 1.05
   pressScale: 0.94
   animTime: 0.08
@@ -279,6 +314,7 @@ MonoBehaviour:
   m_VerticalAlignment: 1024
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -370,7 +406,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 1}
   m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1

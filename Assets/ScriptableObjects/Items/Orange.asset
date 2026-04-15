@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Orange
   m_EditorClassIdentifier: 
   Id: orange
-  DisplayName: Orange
-  Icon: {fileID: 21300000, guid: 047413e491b89f947a3f0518d700ef78, type: 3}
+  DisplayName: Wedding ring
+  Icon: {fileID: 2600418723446463888, guid: 63974802a81a6d140be54de82d892a8a, type: 3}
   MaxStack: 99
   producer: {fileID: 0}
   tier: 2
@@ -37,4 +37,4 @@ MonoBehaviour:
   equipmentBonusNote: Enter fractional bonuses (e.g., 0.15 = +15%, 1.0 = +100%).
     Speed bonuses multiply duration denominators; luck bonuses multiply chances.
   price: 30
-  description: "Ein gef\xE4rbtes Item."
+  description: who lost thier ring?

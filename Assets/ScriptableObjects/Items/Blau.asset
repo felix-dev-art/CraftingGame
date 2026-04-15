@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Blau
   m_EditorClassIdentifier: 
   Id: 2
-  DisplayName: Blau
-  Icon: {fileID: 21300000, guid: 096ce8243287f9341aa62941d0d6baa3, type: 3}
+  DisplayName: Key
+  Icon: {fileID: 631602138990458618, guid: eaf0ddfd746308d428ba54041a516d88, type: 3}
   MaxStack: 99
   producer: {fileID: 0}
   tier: 1
@@ -37,4 +37,4 @@ MonoBehaviour:
   equipmentBonusNote: Enter fractional bonuses (e.g., 0.15 = +15%, 1.0 = +100%).
     Speed bonuses multiply duration denominators; luck bonuses multiply chances.
   price: 15
-  description: "Ein gef\xE4rbtes Item."
+  description: lost key
