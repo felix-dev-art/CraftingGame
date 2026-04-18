@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Producer_Artifact
   m_EditorClassIdentifier: 
   id: legendaryArtifact
-  displayName: Weird Gem
-  icon: {fileID: 21300000, guid: fd3321e3383b0b846bfe44c8782ff70c, type: 3}
+  displayName: Weird snack
+  icon: {fileID: 211525465732369968, guid: 1e7b55692b88181468032c5bda189b88, type: 3}
   spiritPerSecond: 2
-  description: A weird Gem that somehow is inspiring.
+  description: A weird snack that somehow taste inspiring.

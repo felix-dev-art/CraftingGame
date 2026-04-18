@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: befc249a21fa97a4dbc19696bcc55e75
+guid: 0a8a5b399654f5c4c95c302cabeea183
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4427026210493128679
-    second: Winter_0
-  - first:
-      213: 1660088082839697454
-    second: Winter_1
-  - first:
-      213: 7803194809649608137
-    second: Winter_2
+      213: 6346909273093383955
+    second: level bar_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -102,56 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Winter_0
+      name: level bar_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 23
-        width: 23
-        height: 23
+        x: 329
+        y: 169
+        width: 2311
+        height: 332
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,52 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7ef59cf02e4ff6d30800000000000000
-      internalID: 4427026210493128679
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Winter_1
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 0
-        width: 23
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e28f489d051d90710800000000000000
-      internalID: 1660088082839697454
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Winter_2
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 12
-        width: 23
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c5365616548a4c60800000000000000
-      internalID: 7803194809649608137
+      spriteID: 3172d544b50c41850800000000000000
+      internalID: 6346909273093383955
       vertices: []
       indices: 
       edges: []
@@ -224,9 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Winter_0: 4427026210493128679
-      Winter_1: 1660088082839697454
-      Winter_2: 7803194809649608137
+      level bar_0: 6346909273093383955
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
