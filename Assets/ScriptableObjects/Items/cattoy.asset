@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 30344452f45122149be7ab00dbee6427, type: 3}
-  m_Name: poop
-  m_EditorClassIdentifier: 
-  Id: weiss
-  DisplayName: poop
-  Icon: {fileID: -3263790608005545707, guid: fd745b485fa9299418cfea2ca5504176, type: 3}
+  m_Name: cattoy
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  Id: Cattoy
+  DisplayName: Cat toy
+  Icon: {fileID: -8148425493504334312, guid: ad8fd083d5b188145a3d199f39c1be31, type: 3}
   MaxStack: 99
   producer: {fileID: 0}
-  tier: 3
+  tier: 0
   equippable: 0
   equipmentBonuses:
     travelSpeed: 0
@@ -36,5 +36,5 @@ MonoBehaviour:
   researchLuckDescription: Research luck
   equipmentBonusNote: Enter fractional bonuses (e.g., 0.15 = +15%, 1.0 = +100%).
     Speed bonuses multiply duration denominators; luck bonuses multiply chances.
-  price: 300
-  description: trash
+  price: 0
+  description: the dogs dosent like it

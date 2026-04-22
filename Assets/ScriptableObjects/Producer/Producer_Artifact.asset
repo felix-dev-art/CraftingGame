@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Producer_Artifact
   m_EditorClassIdentifier: 
   id: legendaryArtifact
-  displayName: Weird snack
-  icon: {fileID: 211525465732369968, guid: 1e7b55692b88181468032c5bda189b88, type: 3}
+  displayName: poop
+  icon: {fileID: -3263790608005545707, guid: fd745b485fa9299418cfea2ca5504176, type: 3}
   spiritPerSecond: 2
-  description: A weird snack that somehow taste inspiring.
+  description: dog poop

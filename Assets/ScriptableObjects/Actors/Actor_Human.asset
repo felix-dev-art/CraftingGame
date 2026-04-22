@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d75e06c2391548c5ab5d457b3bb03cd2, type: 3}
+  m_Name: Actor_Human
+  m_EditorClassIdentifier: Assembly-CSharp::ActorDefinition
+  id: 
+  displayName: Anki&Fred
+  role: {fileID: 11400000, guid: 3bda604e29a13134cafdb9d360c31e44, type: 2}
+  portraitOverride: {fileID: 0}
+  spiritPerDay: 5
+  hireGoldCost: 400
+  happiness: 0.5
+  clumsiness: 0.133
+  happinessThoughts: []
+  clumsyThoughts: []
+  idleThoughtIntervalMinSeconds: 17
+  idleThoughtIntervalMaxSeconds: 35
+  happyIdleThoughts:
+  - 
+  - 
+  clumsyIdleThoughts:
+  - 
+  happyTravelThoughts:
+  - 
+  - 
+  - 
+  happyForageThoughts:
+  - 
+  - 
+  - 
+  happySellThoughts:
+  - 
+  - 
+  happyResearchThoughts:
+  - 
+  - 
+  happyCraftThoughts:
+  - 
+  happyTavernThoughts:
+  - 
+  clumsyTravelThoughts:
+  - 
+  - 
+  clumsyForageThoughts:
+  - 
+  - 
+  - 
+  clumsySellThoughts:
+  - 
+  - 
+  clumsyResearchThoughts:
+  - 
+  - 
+  - 
+  clumsyCraftThoughts:
+  - 
+  clumsyTavernThoughts:
+  - 
+  - 
+  - 

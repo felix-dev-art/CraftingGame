@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 30344452f45122149be7ab00dbee6427, type: 3}
-  m_Name: Gelb
-  m_EditorClassIdentifier: 
-  Id: gelb
-  DisplayName: Stamp
-  Icon: {fileID: 2771261145930635739, guid: 0a4ae50c1197253468d8e1f66873b03d, type: 3}
-  MaxStack: 99
-  producer: {fileID: 0}
-  tier: 1
+  m_Name: legendaryArtifact 30
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  Id: legendaryArtifact
+  DisplayName: poop
+  Icon: {fileID: -3263790608005545707, guid: fd745b485fa9299418cfea2ca5504176, type: 3}
+  MaxStack: 1
+  producer: {fileID: 11400000, guid: 9e3a59137428ae94a8c0717215c3dc46, type: 2}
+  tier: 0
   equippable: 0
   equipmentBonuses:
     travelSpeed: 0
@@ -36,5 +36,5 @@ MonoBehaviour:
   researchLuckDescription: Research luck
   equipmentBonusNote: Enter fractional bonuses (e.g., 0.15 = +15%, 1.0 = +100%).
     Speed bonuses multiply duration denominators; luck bonuses multiply chances.
-  price: 15
-  description: perfect for sending letters
+  price: 0
+  description: 

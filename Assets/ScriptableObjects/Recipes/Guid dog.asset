@@ -10,16 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f3087be2c1caace4a9d7492d98ba2d5e, type: 3}
-  m_Name: Orange
-  m_EditorClassIdentifier: 
-  displayName: Wedding ring
+  m_Name: Guid dog
+  m_EditorClassIdentifier: Assembly-CSharp::ShapedRecipe
+  displayName: Guide Dog
   tier: 0
   pattern:
-  - item: {fileID: 11400000, guid: f68c9d3a687f6dc4f965428a814273a9, type: 2}
+  - item: {fileID: 11400000, guid: a7c5655e7e824e44e8e7526197fc6601, type: 2}
     amount: 1
-  - item: {fileID: 11400000, guid: 3213f67e22796ff4e9f97a3a0b32ef5f, type: 2}
+  - item: {fileID: 11400000, guid: 19061b9075751f642a4b8baadd1defc1, type: 2}
     amount: 1
-  - item: {fileID: 0}
+  - item: {fileID: 11400000, guid: 19061b9075751f642a4b8baadd1defc1, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 19061b9075751f642a4b8baadd1defc1, type: 2}
     amount: 0
   - item: {fileID: 0}
     amount: 0
@@ -45,7 +47,5 @@ MonoBehaviour:
     amount: 0
   - item: {fileID: 0}
     amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  outputItem: {fileID: 11400000, guid: 98233fa7d0cf83a478dbf3820360eaab, type: 2}
-  outputAmount: 3
+  outputItem: {fileID: 11400000, guid: 9a144bfe344d17c47845967b07ba2dda, type: 2}
+  outputAmount: 1
