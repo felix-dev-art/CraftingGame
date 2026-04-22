@@ -10,22 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 30344452f45122149be7ab00dbee6427, type: 3}
-  m_Name: Helmet
-  m_EditorClassIdentifier: 
-  Id: helmet
-  DisplayName: Stick
-  Icon: {fileID: 7576692522563341778, guid: 1e47049bd2eb473449ec8240ab19069e, type: 3}
-  MaxStack: 99
-  producer: {fileID: 0}
-  tier: 1
-  equippable: 1
+  m_Name: legendaryArtifact 25
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  Id: legendaryArtifact
+  DisplayName: Weird snack
+  Icon: {fileID: 211525465732369968, guid: 1e7b55692b88181468032c5bda189b88, type: 3}
+  MaxStack: 1
+  producer: {fileID: 11400000, guid: 9e3a59137428ae94a8c0717215c3dc46, type: 2}
+  tier: 0
+  equippable: 0
   equipmentBonuses:
     travelSpeed: 0
     craftingSpeed: 0
     researchSpeed: 0
     forageSpeed: 0
     forageLuck: 0
-    tavernLuck: 0.15
+    tavernLuck: 0
     researchLuck: 0
   travelSpeedDescription: Travel speed
   craftingSpeedDescription: Crafting speed
@@ -36,5 +36,5 @@ MonoBehaviour:
   researchLuckDescription: Research luck
   equipmentBonusNote: Enter fractional bonuses (e.g., 0.15 = +15%, 1.0 = +100%).
     Speed bonuses multiply duration denominators; luck bonuses multiply chances.
-  price: 200
-  description: looks fun
+  price: 0
+  description: 

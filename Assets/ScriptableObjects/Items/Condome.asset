@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 30344452f45122149be7ab00dbee6427, type: 3}
-  m_Name: Orange
+  m_Name: Condome
   m_EditorClassIdentifier: 
-  Id: orange
-  DisplayName: Wedding ring
-  Icon: {fileID: 2600418723446463888, guid: 63974802a81a6d140be54de82d892a8a, type: 3}
+  Id: 3
+  DisplayName: Condome
+  Icon: {fileID: -5719111566367086484, guid: 30253e0e4403f9f488492be55f874c6d, type: 3}
   MaxStack: 99
   producer: {fileID: 0}
   tier: 2
@@ -37,4 +37,4 @@ MonoBehaviour:
   equipmentBonusNote: Enter fractional bonuses (e.g., 0.15 = +15%, 1.0 = +100%).
     Speed bonuses multiply duration denominators; luck bonuses multiply chances.
   price: 30
-  description: who lost thier ring?
+  description: Usefull for the first date
